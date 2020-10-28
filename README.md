@@ -1,2 +1,4 @@
-# Code-Strong-CodeLibrary
-This is an open source code library  which includes programs of different languages . If your code language is not there then you can create a folder with the language name like Java,Html,etc.
+Please Read the guidelines given below before contributing :-
+
+* Avoid repeating the same program which is already included in the library
+* Place your code in the appropriate language folder.
